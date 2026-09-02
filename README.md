@@ -3,7 +3,7 @@
 ## Ruby OpenSSL (openssl gem)
 
 ```
-$ ruby test.rb
+$ ruby reproducer.rb
 OpenSSL version: OpenSSL 4.1.0-dev
 Ruby OpenSSL version: 4.0.2
 
