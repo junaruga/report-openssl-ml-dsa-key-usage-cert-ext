@@ -2,6 +2,9 @@
 
 ## C reproducer
 
+I ran the script with OpenSSL master branch latest commit
+`26d762a108e532bb0ca8d510e5d56ac9718dd02d` at this moment.
+
 ```
 $ ./compile.sh
 $ ./reproducer
